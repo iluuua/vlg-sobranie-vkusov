@@ -110,6 +110,7 @@ h1,h2,h3{font-family:var(--font-display);font-weight:400;line-height:1.22}
 .rev__h b{font-size:15px}
 .rev__h time{color:var(--ink-soft);font-size:12.5px;margin-left:auto}
 .rev__c p{font-size:14.5px;color:var(--ink-soft)}
+.aspects__cap{color:var(--ink-soft);font-size:13.5px;margin:-18px 0 12px}
 .aspects{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:26px}
 .aspects span{background:var(--card);border:1px solid var(--line);border-radius:999px;padding:7px 15px;font-size:13.5px}
 .aspects b{color:var(--accent)}
